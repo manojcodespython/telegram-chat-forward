@@ -1,6 +1,4 @@
-.vscode
-__pycache__
-.env
-venv
-forwarder.session
-config.ini
+[forwarding]
+from = @EU Gold VIP
+to = @Combination forex VIP
+offset = 0
